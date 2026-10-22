@@ -1,0 +1,13 @@
+h2{
+  color: #8d95df;
+}
+.container{
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  align-items: center;
+}
+.blue{color: blue;}
+a{color: #ff00dd;}
+a:hover{color: burlywood; font-size: 20px;}
+.img{width: 300px; border-radius:20px;}
